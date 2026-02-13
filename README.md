@@ -1,4 +1,4 @@
-# Geospatial Analysis & Representation for Data Science — Airbnb Buenos Aires
+# Geospatial Analysis & Representation for Data Science — Effects of location on Airbnb apartment pricing in Buenos Aires
 
 This repository contains a geospatial data pipeline and econometric analysis for explaining differences in **nightly Airbnb prices across Buenos Aires**, with a focus on **location effects** (access to attractions/transport, environmental amenities, and neighborhood safety) and **spatial dependence**.
 
